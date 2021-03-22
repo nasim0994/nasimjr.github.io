@@ -1,0 +1,179 @@
+/* Extra small devices (phones, 600px and down) */
+	.container {
+    width: 90%;
+}
+
+.header_area .logo {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.header_area .logo a {
+    overflow: unset;
+}
+
+.header_area nav.manu_area {
+    width: 100%;
+}
+
+.header_area nav.manu_area li {
+    float: none;
+    padding: 10px;
+}
+
+.header_area nav.manu_area ul {
+    float: none;
+    padding: 0px;
+}
+
+.header_area nav.manu_area li a {
+    background: #ddd;
+    padding: 10px;
+    color: #000;
+    border-radius: 5px;
+}
+
+.active_border {
+    top: 43px;
+}
+.slider_area {
+    padding: 50px 0px;
+}
+
+.slider_wrap h2 {
+    width: 100%;
+}
+
+.slider_wrap p {
+    width: 100%;
+}
+.slider_area {
+    padding: 50px 0px;
+}
+
+.slider_wrap h2 {
+    width: 100%;
+}
+
+.slider_wrap p {
+    width: 100%;
+}
+
+.about_area {
+    padding: 50px 0px;
+}
+
+.about_content {
+    width: 100%;
+    margin: 0px;
+}
+
+.about_img {
+    width: 100%;
+    margin: 0px;
+    margin-top: 50px;
+}
+
+.about_img img {
+    width: 100%;
+}
+.service_area .service_wrap .serviceBox {
+    width: 100%;
+    margin: 0px 0px 20px 0px;
+    padding: 80px 0px;
+}
+
+.service_area .service_wrap {
+    width: 100%;
+}
+
+.service_area {
+    padding: 50px 0px;
+}
+
+.experience_area {
+    padding: 50px 0px;
+}
+
+.experience_area .experience_wrap .experience_content {
+    width: 100%;
+    padding: 0px;
+}
+
+.experience_area .experience_wrap .experience_img {
+    width: 100%;
+    margin-top: 43px;
+}
+
+.experience_area .experience_wrap .experience_img img {
+    width: 100%;
+    padding: 0px;
+}
+.experience_area {
+    padding: 50px 0px;
+}
+
+.experience_area .experience_wrap .experience_content {
+    width: 100%;
+    padding: 0px;
+}
+
+.experience_area .experience_wrap .experience_img {
+    width: 100%;
+    margin-top: 43px;
+}
+
+.experience_area .experience_wrap .experience_img img {
+    width: 100%;
+    padding: 0px;
+}
+
+section.team_area {
+    padding: 50px 0px;
+}
+
+.tram_area_wrap .team_member {
+    width: 100%;
+    border-radius: 0px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+footer.footer_area {
+    padding: 50px 0px;
+}
+
+.footer_wrap .footer_logo {
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+}
+
+.footer_wrap .footer_contuct_area {
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+}
+
+.footer_socialLink {
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+}
+
+.facebook_page {
+    width: 100%;
+}
+.team-content ul {
+    margin-left: 188px;
+}
+
+
+
+
+
+
+
+
+
+
+
+	
